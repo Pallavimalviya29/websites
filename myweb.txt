@@ -2,3 +2,8 @@ Welcome to my website...
 
 
 lets learn web development!
+
+Flask
+Django
+
+Thank you :)
